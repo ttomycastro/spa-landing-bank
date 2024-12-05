@@ -18,7 +18,7 @@ export const MotionTransition = ({children,className}: MotionTransitionProps) =>
       slideControls.start("visible")
     }
 
-  }, [isInView])
+  }, [isInView, mainControls, slideControls])
   
 
   return (

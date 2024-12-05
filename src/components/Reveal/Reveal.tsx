@@ -17,7 +17,7 @@ import React, { useEffect, useRef } from 'react'
       slideControls.start("visible")
     }
 
-   }, [isInView])
+   }, [isInView, mainControls, slideControls])
    
 
    return (

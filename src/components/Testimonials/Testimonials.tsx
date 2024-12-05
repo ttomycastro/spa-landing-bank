@@ -1,6 +1,5 @@
 import { BackgroundRadialLeft } from "../BackgroundRadialLeft";
 import Reveal from "../Reveal/Reveal";
-import { Slide } from "./Slide";
 
 
 export function Testimonials() {
