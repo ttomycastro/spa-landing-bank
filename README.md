@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 💳 Boras Bank - Landing Page 🌐
 
-## Getting Started
+¡Bienvenido a la landing page oficial de **Boras Bank**!  
+Este proyecto ha sido desarrollado para destacar las características y servicios de un banco virtual moderno, utilizando tecnologías de última generación como **Next.js** y **TailwindCSS**.  
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Características principales
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### ✅ **Diseño Moderno e Intuitivo**
+- **Next.js** asegura un rendimiento óptimo gracias al renderizado en el servidor y generación de sitios estáticos.
+- **TailwindCSS** facilita un diseño responsive y altamente personalizable.
+- Enfoque en **UX/UI** para ofrecer una experiencia de navegación atractiva y fluida.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 💼 **Sección de Servicios**
+- Descripción detallada de los servicios financieros que ofrece Boras Bank: cuentas, préstamos, inversiones, y más.
+- Diseño con **componentes reutilizables** para facilitar la escalabilidad del proyecto.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 💳 **Destacados de Tarjetas**
+- Visualización de tarjetas de crédito y débito con beneficios únicos para cada tipo.
+- Sección interactiva que permite explorar detalles de las tarjetas con un diseño atractivo.
 
-## Learn More
+### 🌟 **Testimonios**
+- Sección que muestra testimonios de clientes satisfechos.
+- Animaciones ligeras y transiciones creadas con **TailwindCSS**.
 
-To learn more about Next.js, take a look at the following resources:
+### 📋 **Detalles Adicionales**
+- Bloques de contenido que destacan promociones y características clave del banco.
+- Navegación intuitiva con soporte para **modo oscuro**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎨 Tecnologías Utilizadas
 
-## Deploy on Vercel
+- **Next.js**: Framework de React para aplicaciones web modernas.
+- **TailwindCSS**: Framework de diseño CSS para estilos rápidos y eficientes.
+- **Framer Motion**: (Opcional) para animaciones suaves.
+- **React Icons**: Íconos modernos y personalizables.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🖼️ Vista Previa
+
+[www.boras-bank](https://boras-bank.netlify.app/)
+*Un diseño profesional, moderno y funcional.*
+
